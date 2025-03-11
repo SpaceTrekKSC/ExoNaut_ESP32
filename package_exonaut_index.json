@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "name": "exonaut",
+      "maintainer": "SpaceTrek @ KSC",
+      "websiteURL": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32",
+      "email": "agafford@spacetrek.com",
+      "help": {
+        "online": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/issues"
+      },
+      "platforms": [
+        {
+          "name": "ExoNaut ESP32 Boards",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "ExoNaut",
+          "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v1.0.0/exonaut-esp32-1.0.0.zip",
+          "archiveFileName": "exonaut-esp32-1.0.0.zip",
+          "checksum": "SHA-256:C3566B7217236DED9356A619358B179BD7E0E77625095E7D298BB2221AA7DFBD",
+          "size": "25065127",
+          "help": {
+            "online": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32"
+          },
+          "boards": [
+            {
+              "name": "ExoNaut_ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.0.0"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
