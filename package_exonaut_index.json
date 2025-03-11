@@ -16,8 +16,8 @@
           "category": "ExoNaut",
           "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v1.0.0/exonaut-esp32-1.0.0.zip",
           "archiveFileName": "exonaut-esp32-1.0.0.zip",
-          "checksum": "SHA-256:C3566B7217236DED9356A619358B179BD7E0E77625095E7D298BB2221AA7DFBD",
-          "size": "25065127",
+          "checksum": "SHA-256:1D4ED4CD2BABFABAB190A21812B85261973D2B86459E94A354719D1706211B58",
+          "size": "417441127",
           "help": {
             "online": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32"
           },
@@ -28,19 +28,74 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp32",
+              "packager": "exonaut",
               "name": "xtensa-esp32-elf-gcc",
-              "version": "1.22.0-97-gc752ad5-5.2.0"
+              "version": "14.2.0_20241119"
             },
             {
-              "packager": "esp32",
+              "packager": "exonaut",
               "name": "esptool_py",
               "version": "3.0.0"
             }
           ]
         }
       ],
-      "tools": []
+      "tools": [
+        {
+          "name": "xtensa-esp32-elf-gcc",
+          "version": "14.2.0_20241119",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
+              "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
+              "checksum": "SHA-256:put-actual-checksum-here",
+              "size": "put-actual-size-here"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-apple-darwin.tar.gz",
+              "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-apple-darwin.tar.gz",
+              "checksum": "SHA-256:put-actual-checksum-here",
+              "size": "put-actual-size-here"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-linux-gnu.tar.gz",
+              "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-linux-gnu.tar.gz",
+              "checksum": "SHA-256:put-actual-checksum-here",
+              "size": "put-actual-size-here"
+            }
+          ]
+        },
+        {
+          "name": "esptool_py",
+          "version": "3.0.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esptool-3.0.0.zip",
+              "archiveFileName": "esptool-3.0.0.zip",
+              "checksum": "SHA-256:d34cbfa4ad799a76e5f437a8ac181d8c3e447873eae8b1d44f2096729f93ceaa",
+              "size": "4407011"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esptool-3.0.0.tar.gz",
+              "archiveFileName": "esptool-3.0.0.tar.gz",
+              "checksum": "SHA-256:a6483d913fd3646eea700f65e3f4411f116d75fe45e5e9879cc90b189c4f5a45",
+              "size": "6168067"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esptool-3.0.0.tar.gz",
+              "archiveFileName": "esptool-3.0.0.tar.gz",
+              "checksum": "SHA-256:a6483d913fd3646eea700f65e3f4411f116d75fe45e5e9879cc90b189c4f5a45",
+              "size": "6168067"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
