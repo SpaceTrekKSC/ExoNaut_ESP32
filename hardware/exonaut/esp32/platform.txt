@@ -2,7 +2,7 @@ name=ExoNaut
 version=1.0.0
 
 # This uses the ESP32 Arduino core tools
-runtime.tools.xtensa-esp32-elf-gcc.path={runtime.platform.path}/tools/xtensa-esp32-elf
+runtime.tools.xtensa-esp32-elf.path={runtime.platform.path}/tools/xtensa-esp32-elf
 runtime.tools.esptool_py.path={runtime.platform.path}/tools/esptool
 
 # These point to the standard ESP32 core
