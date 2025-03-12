@@ -29,7 +29,7 @@
           "toolsDependencies": [
             {
               "packager": "exonaut",
-              "name": "xtensa-esp32-elf-gcc",
+              "name": "xtensa-esp32-elf",
               "version": "14.2.0_20241119"
             },
             {
@@ -42,7 +42,7 @@
       ],
       "tools": [
         {
-          "name": "xtensa-esp32-elf-gcc",
+          "name": "xtensa-esp32-elf",
           "version": "14.2.0_20241119",
           "systems": [
             {
