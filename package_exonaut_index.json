@@ -49,8 +49,8 @@
               "host": "i686-mingw32",
               "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
               "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
-              "checksum": "SHA-256:put-actual-checksum-here",
-              "size": "put-actual-size-here"
+              "checksum": "SHA-256:62AE704777D73C30689EFFF6E81178632A1CA44D1A2D60F4621EB997E040E028",
+              "size": "386316009"
             },
             {
               "host": "x86_64-apple-darwin",
