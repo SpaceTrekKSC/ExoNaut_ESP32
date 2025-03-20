@@ -1,11 +1,11 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
+      "name": "SpaceTrek ESP32",
+      "maintainer": "SpaceTrek @ KSC",
       "websiteUrl": "https://github.com/espressif/arduino-esp32",
       "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
-      "email": "hristo@espressif.com",
+      "email": "agafford@spacetrek.com,
       "platforms": [
         {
           "name": "esp32",
