@@ -16,8 +16,8 @@
           "category": "ExoNaut",
           "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v1.0.0/exonaut-esp32-1.0.0.zip",
           "archiveFileName": "exonaut-esp32-1.0.0.zip",
-          "checksum": "SHA-256:1D4ED4CD2BABFABAB190A21812B85261973D2B86459E94A354719D1706211B58",
-          "size": "417441127",
+          "checksum": "SHA-256:7E1B25DFA6DA41F19CF50F2E988F45BE6A54498CC83040497D1F23546A973C84",
+          "size": "385212372",
           "help": {
             "online": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32"
           },
@@ -29,7 +29,7 @@
           "toolsDependencies": [
             {
               "packager": "exonaut",
-              "name": "xtensa-esp32-elf-gcc",
+              "name": "xtensa-esp32-elf",
               "version": "14.2.0_20241119"
             },
             {
@@ -42,15 +42,15 @@
       ],
       "tools": [
         {
-          "name": "xtensa-esp32-elf-gcc",
+          "name": "xtensa-esp32-elf",
           "version": "14.2.0_20241119",
           "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
               "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
-              "checksum": "SHA-256:put-actual-checksum-here",
-              "size": "put-actual-size-here"
+              "checksum": "SHA-256:62AE704777D73C30689EFFF6E81178632A1CA44D1A2D60F4621EB997E040E028",
+              "size": "386316009"
             },
             {
               "host": "x86_64-apple-darwin",
