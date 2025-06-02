@@ -2,12 +2,9 @@
   "packages": [
     {
       "name": "spacetrek_esp32",
-      "maintainer": "Espressif Systems",
+      "maintainer": "spacetrek",
       "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
-      "help": {
-        "online": "http://esp32.com"
-      },
+      "email": "agafford@spacetrek.com",
       "platforms": [
         {
           "name": "spacetrek_esp32",
@@ -24,27 +21,6 @@
           "boards": [
             {
               "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "ESP32-C6 Dev Board"
-            },
-            {
-              "name": "ESP32-H2 Dev Board"
-            },
-            {
-              "name": "ESP32-P4 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
             }
           ],
           "toolsDependencies": [
@@ -60,16 +36,6 @@
             },
             {
               "packager": "esp32",
-              "name": "xtensa-esp-elf-gdb",
-              "version": "14.2_20240403"
-            },
-            {
-              "packager": "esp32",
-              "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20250422"
-            },
-            {
-              "packager": "esp32",
               "name": "esptool_py",
               "version": "4.9.dev3"
             },
@@ -77,11 +43,6 @@
               "packager": "esp32",
               "name": "mkspiffs",
               "version": "0.2.3"
-            },
-            {
-              "packager": "esp32",
-              "name": "mklittlefs",
-              "version": "3.0.0-gnu12-dc7f933"
             },
             {
               "packager": "arduino",
