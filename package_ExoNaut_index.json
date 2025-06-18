@@ -3,7 +3,7 @@
     {
       "name": "ExoNaut",
       "maintainer": "Space Trek", 
-      "websiteURL": "https://github.com/agafford-ST/platfromTest/",
+      "websiteURL": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32",
       "email": "agafford@spacetrek.com", 
       "platforms": [
         {
@@ -11,12 +11,12 @@
           "architecture": "esp32",
           "version": "0.0.1", 
           "category": "Contributed",
-          "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/ExoNaut-esp32-0.0.1.zip",
+          "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/ExoNaut-esp32-0.0.1.zip",
           "archiveFileName": "ExoNaut-esp32-0.0.1.zip",
           "checksum": "SHA-256:F24B28380EA9BCE6A0017F396C52C1294AAFEC8BA80D09DECC5A59BE37B0169D",
           "size": "19861504",
           "help": {
-            "online": "https://github.com/agafford-ST/platfromTest/"
+            "online": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32"
           },
           "boards": [
             {
@@ -59,56 +59,56 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "aarch64-linux-gnu",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
             },
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/agafford-ST/platfromTest/raw/refs/heads/main/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "archiveFileName": "esp32-arduino-libs-idf-release_v5.4-aed8bdc8-v1.zip",
               "checksum": "SHA-256:1D851CAFF8B60BAF5B08B0062BB414A49EA8911605EB378FC974902C2B3179FE",
               "size": "39673856"
@@ -170,7 +170,7 @@
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/agafford-ST/platfromTest/releases/download/v0.0.1/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
+              "url": "https://github.com/SpaceTrekKSC/ExoNaut_ESP32/releases/download/v0.0.1/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
               "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
               "checksum": "SHA-256:7401357B755AB6F10790C4375AB891B4A871A3FFCC7BDECDACF62336BE340AEF",
               "size": "247894016"
