@@ -1,5 +1,5 @@
 name=ExoNaut Arduino
-version=0.0.1
+version=0.0.2
 
 tools.esp32-arduino-libs.path={runtime.tools.esp32-arduino-libs.path}
 

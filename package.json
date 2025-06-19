@@ -1,6 +1,6 @@
 {
   "name": "framework-exonautespressif32",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Arduino Wiring-based Framework for the ExoNaut",
   "keywords": [
     "framework",
