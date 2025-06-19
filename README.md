@@ -19,7 +19,7 @@ A completely independent ESP32 board package for the Arduino IDE specifically de
 2. Go to **File > Preferences**
 3. In the "Additional Board Manager URLs" field, add the following URL:
    ```
-   [https://raw.githubusercontent.com/SpaceTrekKSC/ExoNaut_ESP32/main/package_exonaut_index.json](https://github.com/SpaceTrekKSC/ExoNaut_ESP32/raw/refs/heads/main/package_ExoNaut_index.json)
+   https://github.com/SpaceTrekKSC/ExoNaut_ESP32/raw/refs/heads/main/package_ExoNaut_index.json
    ```
    (Multiple URLs can be separated by commas)
 4. Click "OK" to save the preferences
